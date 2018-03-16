@@ -2,16 +2,16 @@
 layout:     post
 title:      The psychological representation of modality
 date:       2018-03-14 11:21:29
-summary:    A quick primer on the theory that started my work on the psychological representation of modality
+summary:    A quick primer on how to think about the psychological representation of modality
 categories: modality
 ---
  
 
-I started thinking about the psychological representation of modality&mdash;the way that we represent and reason over non-actual possibilities&mdash;sometime beforegraduate school (so, almost ten years ago). Over the course of the intervening years, [Josh Knobe](http://campuspress.yale.edu/joshuaknobe/) and I have been working out a theoretical framework for understanding this aspect of our minds, and now, the the paper where we lay out our approach is finally, [officially](http://onlinelibrary.wiley.com/doi/10.1111/mila.12165/epdf?author_access_token=YJnNrFUAHiD7X5BtHmsIj4ta6bR2k8jH0KrdpFOxC64rx2YI4yXf1_8mGQ0hiYO-w0urnuJ4dLkVIauHAml-r0hqWGYPqnVDAvJ8gWAgNJZM3RBNuGDXOT6H2UeJmimr), out!
+I started thinking about the psychological representation of modality&mdash;the way that we represent and reason over non-actual possibilities&mdash;sometime before graduate school (so, almost ten years ago). Over the course of the intervening years, [Josh Knobe](http://campuspress.yale.edu/joshuaknobe/) and I have been developing a theoretical framework for understanding this aspect of our minds, and now, the the paper where we lay out our approach is finally, [officially](http://onlinelibrary.wiley.com/doi/10.1111/mila.12165/epdf?author_access_token=YJnNrFUAHiD7X5BtHmsIj4ta6bR2k8jH0KrdpFOxC64rx2YI4yXf1_8mGQ0hiYO-w0urnuJ4dLkVIauHAml-r0hqWGYPqnVDAvJ8gWAgNJZM3RBNuGDXOT6H2UeJmimr), out!
 
 While the paper is meant to be a lot of fun to read ([see for yourself](http://people.fas.harvard.edu/~phillips01/papers/psychologyofModality.pdf)), I thought I'd also write a less academic blog post that leaves most of the details out and just gives a rough sense for the framework and why we think that understanding the psychological representation of modality is going to help solve a lot of problems throughout cognitive science. 
 
-I've also tried to make the post pretty modular, so you can focus on the parts that you're most interested in, and ignore the others. You'll definitely want to start with the [overview]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#the-psychological-representation-of-modality" | absolute_url }}) of our proposal about the psychological representation of modality, but the other sections that go on to apply this framework to different phenomena ([the development of reasoning about possibility]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#development-of-thinking-about-possibilities" | absolute_url }}), [how people think about force and freedom]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#judgments-of-freedom" | absolute_url }}), [the problem of causal selection]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#causal-selection" | absolute_url }}), and [explicit counterfactual reasoning]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#counterfactual-thinking" | absolute_url }})) can basically be understood separately.
+I've tried to make this post pretty modular, so you can focus on the parts that you're most interested in, and ignore the others. You'll definitely want to start with the [overview]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#the-psychological-representation-of-modality" | absolute_url }}) of our proposal about the psychological representation of modality, but the other sections that go on to apply this framework to different phenomena ([how people make judgments about freedom and force]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#judgments-of-freedom" | absolute_url }}), [the problem of causal selection]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#causal-selection" | absolute_url }}), [explicit counterfactual reasoning]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#counterfactual-thinking" | absolute_url }}), and [the way kids think about possibility]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#development-of-thinking-about-possibilities" | absolute_url }})) can basically be understood separately.
 
 ## The psychological representation of modality
 
@@ -19,19 +19,19 @@ I've also tried to make the post pretty modular, so you can focus on the parts t
 
 A good place to start in trying to understand how we represent non-actual possibilities is to consider how we talk about them. One intriguing fact is that across an enormous variety of languages, people often use the same term (e.g., English 'can') to make claims that seem to be about physics, as in (1), probability, as in (2), or morality, as in (3).
 
-	1. Particles can't go faster than the speed of light.
+	(1) Particles can't go faster than the speed of light.
 
-	2. One can't complete an entire career in research without making a few mistakes.
+	(2) One can't complete an entire career in research without making a few mistakes.
 
-	3. You can't keep treating your sister that way – look at how upset she is!
+	(3) You can't keep treating your sister that way – look at how upset she is!
 
-What should we make of this? One possibility is that terms like 'can' are surprisingly polysemous across languages. However, linguists working in formal semantics have rejected this idea and instead argued that the meaning of all of these different kinds of claims can be captured within a single unifying framework (Kratzer, 2012). At a very informal level, you can think about the proposal as involving three key claims. The first is that statements involving modal auxiliaries (e.g., 'can', 'must', or 'should') are not concerned so much with the way that things actually are, but are really claims about (mostly non-actual) possibilities. The second is that people aren't concerned with *all* possibilities, but rather, only a much smaller subset of them. The third is that three things that can shape which subset of possibilities people consider are *physics*, *probability*, and *morality*.
+What should we make of this? One possibility is that terms like 'can' are surprisingly polysemous across languages. However, linguists working in formal semantics have rejected this idea and instead argued that the meaning of all of these different kinds of claims can be captured within a single unifying framework (Kratzer, 2012). At a very informal level, you can think about the proposal as involving three key claims. The first is that statements involving modal auxiliaries (e.g., 'can', 'must', or 'should') are not concerned so much with the way that things actually are, but are really claims about (mostly non-actual) possibilities. The second is that people aren't concerned with *all* possibilities, but rather, only a much smaller subset of them. And the third is that three things that can shape which subset of possibilities people consider are *physics*, *probability*, and *morality*.
 
-This basic approach can thus make sense of (1), for example, by saying that it is a claim about not just the way that particles have moved thus far, but about all of the possible ways particles might move. Importantly though, we are *not* concerning ourselves with possibilities in which the laws of physics are violated, and clearly, excluding those kinds of possibilities, there are no cases of particles going faster than the speed of light.
+To get a sense for this, consider how we might use this to make since of (1), for example. The idea is that this is a claim about not just the way that particles have moved thus far, but about all of the possible ways particles might move. Importantly though, we are *not* concerning ourselves with possibilities in which the laws of physics are violated, and clearly, once we exclude those kinds of possibilities, there are no cases of particles going faster than the speed of light.
 
-We can also make sense of (3) in much the same way: It is a claim about not just what has already happened, but a whole range of possibilities involving you interacting with your sister. The possibilities we are concerned with here though are not ones in which the rules of *morality* are violated, and obviously, in all of remaining possibilities (where people do only morally good things), there are no cases of you continuing to treat your sister that way.
+We can also make sense of (3) in much the same way: It is a claim about not just what has already happened, but a whole range of possibilities involving you interacting with your sister. The possibilities we are not concerned with in this case, though, are ones in which the rules of *morality* are violated, and obviously, if we ignore those possibilities, there are no cases of you continuing to treat your sister that way.
 
-Generalizing a bit then, the basic fact we're pointing to is that when we talk about possibilities, we're often concerned with possibilities that conform to what we know about physics, probability, and morality, and simply ignore possibilities that violate these factors.
+Generalizing a bit then, the basic feature we're pointing to is that when we *talk* about possibilities, we're often concerned with possibilities that conform to what we know about physics, probability, and morality, and simply ignore possibilities that violate these factors.
 
 ### How we think about possibility
 
@@ -55,7 +55,7 @@ Consider a concrete example. Imagine a person whose car breaks down on the way t
 
 * Levitate and fly to the airport
 
-Our claim though is that people don't represent most of the possibilities that they (in principle) could. Rather, they just focus on the much smaller subset of possibilities that conform to what they know about physics, probability, and morality (among other things). So, in our simple example, the possibilities the person would represent would look something more like this: 
+Our claim though is that people don't represent most of the possibilities that they (in principle) could. Rather, they just focus on the much smaller subset of possibilities that conform (among other things) to what they know about physics, probability, and morality. So, in our simple example, the possibilities the person would represent might look something more like this: 
 
 * Hail a taxi
 
@@ -63,22 +63,22 @@ Our claim though is that people don't represent most of the possibilities that t
 
 If you're starting to get worried that we've spent all of this time saying something that's just kind of intuitive and obvious, here's when you can stop worrying!
 
-The suggestion isn't simply that people take different considerations into account whenever it makes sense to do so (perhaps by applying domain general reasoning principles). Rather, our claim is people will continue to take these same considerations (physics, probability, morality, etc.) into account even when it doesn't make sense to do so. We're suggesting that these constraints on the psychological representation of modality operate at a non-conscious level to somewhat inflexibly exclude possibilities from ever being considered. Thus, for example, we predict that people will tend to not to consider possibilities that would be morally bad even when they can easily see on reflection that there is no rational reason for doing this.
+The suggestion isn't simply that people take different considerations into account whenever it makes sense to do so (perhaps by applying domain general reasoning principles). Rather, our claim is people will continue to take these same considerations (physics, probability, morality, etc.) into account even when it doesn't make sense to do so. We're suggesting that these constraints on the psychological representation of modality operate at a non-conscious level to inflexibly exclude possibilities from consideration. Thus, for example, we predict that people will tend to not to consider possibilities that would be morally bad even when they can easily see on reflection that there is no rational reason for doing this.
 
-So that's the heart of the proposal. The only other real idea is that we think this non-conscious and relatively inflexible representation plays a fundamental role throughout higher-level cognition. 
+That's the heart of the proposal; the only other real idea is that we think this non-conscious and relatively inflexible representation plays a fundamental role throughout higher-level cognition.
 
 ### Putting modality to work
 
 Alright, so now what we want to show how by positing this one kind of representation&mdash;the psychological representation of modality&mdash;we can start to explain a plethora of otherwise puzzling patterns of judgments across a diversity of areas of cognition.
 
-Well focus in particular on four different cases where we think representations of non-actual possibilities play an important role and where one finds that violations of physics, probability, and morality have roughly the same kind of impact.
+We'll focus in particular on four different cases where we think representations of non-actual possibilities play an important role and where one finds that violations of physics, probability, and morality have roughly the same kind of impact. Then, we'll show the patterns are actually pretty easy to understand if you appeal to the psychological representation of modality.
 
-So this is the part where you get to choose your own adventure. You can just keep reading, or if you're only interested in one particular topic, you can skip directly to what we think the psychological representation of modality can do there. Here are the four cases we consider:
+So this is the part where you get to choose your own adventure. You can just keep reading, or if you're only interested in one particular topic, you can skip directly to what we think the psychological representation of modality can do there. Here are four of the topics we consider:
 
-* [How people think about force and freedom]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#judgments-of-freedom" | absolute_url }})
+* [How people make judgments about force and freedom]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#judgments-of-freedom" | absolute_url }})
 * [The problem of causal selection]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#causal-selection" | absolute_url }})
 * [Explicit counterfactual reasoning]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#counterfactual-thinking" | absolute_url }})
-* [The development of reasoning about possibility]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#development-of-thinking-about-possibilities" | absolute_url }})
+* [The way kids think about possibility]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#development-of-thinking-about-possibilities" | absolute_url }})
 
 ## Judgments of freedom
 
@@ -137,19 +137,19 @@ and the causal judgment in (7a) involves reasoning over the possibilities in (7b
 
 	7b. Possibilities in which the morally good action was not done.
 
-So it's not hard to explain why people are more inclined to agree more with claims of the form (6a) than claims of the form (7a): People tend to represent and reason over the possibilities picked out by (6b) but not those picked out by (7b). Thus their causal judgments mirror the fact that they seem to be ignoring what would have happened if the morally good action hadn't been done, but not what would have happened if the morally bad action hadn't been done.
+So it's not hard to explain why people are more inclined to agree more with claims of the form (6a) than claims of the form (7a): People tend to represent and reason over the possibilities picked out by (6b) but not those picked out by (7b). Thus their causal judgments mirror this fact: they seem to be ignoring what would have happened if the morally good action hadn't been done, but not what would have happened if the morally bad action hadn't been done.
 
 ## Counterfactual thinking
 
 Imagine you were delayed by a traffic jam on the way to the airport and that you missed your flight as a result. You might engage in a great deal of nonconscious processing about these events, but in addition, you would likely also engage in the explicit process of reasoning through what might have happened if things had gone differently. We refer to this conscious process as explicit counterfactual reasoning. Work in cognitive and social psychology, and more recently, neuroscience, has focused on understanding humans’ general capacity to engage in this sort of explicit counterfactual reasoning (Byrne 2016, De Brigard et al. 2013). Within this field, one important research question has been which possibilities people simulate when they engage in explicit counterfactual reasoning (Kahneman & Miller 1986, Roese 1994). We may typically consider, for instance, what might have happened if there had not been a traffic jam, but we rarely consider what might have happened if the flight’s departure had been delayed by a surprise ice storm. 
 
-One of the most robust findings from this research is that people tend to consider counterfactuals in which typical or probable events take place, and rarely consider counterfactuals in which improbable events occur. Even less frequently do they consider counterfactuals involving physical violations. Strikingly, in much the same way, people also tend to consider counterfactuals in which morally good, rather than morally bad things occur (McCloy & Byrne 2000b, N’gbala & Branscombe 1995). That is, which counterfactuals people tend to entertain is affected by physical, probabilistic and moral considerations.
+One of the most robust findings from this research is that people tend to consider counterfactuals in which typical or probable events take place, and rarely consider counterfactuals in which improbable events occur. Even less frequently do people consider counterfactuals involving physical violations. Strikingly, in much the same way, people also tend to consider counterfactuals in which morally good, rather than morally bad things occur (McCloy & Byrne 2000b, N’gbala & Branscombe 1995). That is, which counterfactuals people tend to entertain is affected by physical, probabilistic and moral considerations.
 
 ### The explanation
 
-The modal representation view provides a straightforward explanation of this pattern of data. The key idea is just that there is a tendency for people only to engage in explicit counterfactual reasoning with regard to the possibilities that are represented as being in the domain. Possibilities that are either improbable or morally bad are ruled out, and people tend not to engage in explicit counterfactual reasoning about them. Thus, the modal representation view provides a unified explanation that applies to both of these effects.
+The modal representation view provides a straightforward explanation of this pattern of data. The key idea is just that there is a tendency for people to only to engage in explicit counterfactual reasoning with regard to the possibilities that are part of the underlying psychological representation of modality. Possibilities that are either improbable or morally bad tend not to be represented in the first place, and so people tend not to engage in explicit counterfactual reasoning about what would have happened if these possibilities had actually occurred. Thus, the modal representation view provides a unified explanation that applies to both of these effects.
 
-As we discuss in [the paper]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#the-paper" | absolute_url }}), there are also many aspects of counterfactual thinking that we don't exp
+As we discuss in [the paper]({{ "/modality/2018/03/14/the-psychological-representation-of-modality/#the-paper" | absolute_url }}), there are also many aspects of counterfactual thinking that we we're not so sure this is going to explain (e.g., the effects of controllabilty).
 
 ## Development of thinking about possibilities
 
