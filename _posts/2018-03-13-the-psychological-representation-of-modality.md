@@ -5,7 +5,6 @@ date:       2018-03-14 11:21:29
 summary:    A quick primer on how to think about the psychological representation of modality
 categories: modality
 ---
- 
 
 I started thinking about the psychological representation of modality&mdash;the way that we represent and reason over non-actual possibilities&mdash;sometime before graduate school (so, almost ten years ago). Over the course of the intervening years, [Josh Knobe](http://campuspress.yale.edu/joshuaknobe/) and I have been developing a theoretical framework for understanding this aspect of our minds, and now, the the paper where we lay out our approach is finally, [officially](http://onlinelibrary.wiley.com/doi/10.1111/mila.12165/epdf?author_access_token=YJnNrFUAHiD7X5BtHmsIj4ta6bR2k8jH0KrdpFOxC64rx2YI4yXf1_8mGQ0hiYO-w0urnuJ4dLkVIauHAml-r0hqWGYPqnVDAvJ8gWAgNJZM3RBNuGDXOT6H2UeJmimr), out!
 

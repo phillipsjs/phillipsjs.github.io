@@ -1,8 +1,8 @@
 # Site settings
-title:       "Cog Sci: Intersections and updates"
+title:       "Update by intersection"
 email:       phillips01@g.harvard.edu
 author:      Jonathan Phillips
-description: "Updates from cognitive science"
+description: "News from cognitive science"
 baseurl:     ""
 url:         "https://phillipsjs.github.io"
 date_format: "%b %-d, %Y"
