@@ -2,13 +2,12 @@
 title:       "Update by intersection"
 email:       phillips01@g.harvard.edu
 author:      Jonathan Phillips
-description: "News from cognitive science"
+description: "Views from cognitive science"
 baseurl:     ""
 url:         "https://phillipsjs.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
