@@ -177,7 +177,32 @@ Chernyak, Nadia, Tamar Kushnir, Katherine M Sullivan & Qi Wang. 2013. A comparis
 
 Gerstenberg, T., Peterson, M. F., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2017). Eye-tracking causality. *Psychological science*, 28(12), 1731-1744.
 
-Kratzer, A. (2012). *Modals and conditionals: New and revised perspectives* (Vol. 36). Oxford University Press.
+Hitchcock, Christopher & Joshua Knobe. 2009. Cause and norm. *The Journal of
+Philosophy* 106(11). 587–612
+
+Icard, Thomas, Jonathan Kominsky & Joshua Knobe. 2017. Normality and actual
+causal strength. *Cognition* 161. 80–93
+
+Knobe, Joshua. 2010. Person as scientist, person as moralist. *Behavioral and Brain Sciences* 33(04). 315–329
+
+Knobe, Joshua & Zoltán Gendler Szabó. 2013. Modals with a taste of the deontic. *Semantics and Pragmatics* 6(1). 1–42.
 
 Kominsky, Jonathan F, Jonathan Phillips, Tobias Gerstenberg, David Lagnado & Joshua Knobe. 2015. Causal superseding. *Cognition* 137. 196–209.
 
+Kratzer, A. (2012). *Modals and conditionals: New and revised perspectives* (Vol. 36). Oxford University Press.
+
+Matthewson, Lisa. 2016. Modality. In Maria Aloni & Paul Dekker (eds.), *The
+cambridge handbook of formal semantics*, Oxford University Press.
+
+Phillips, J., & Cushman, F. (2017). Morality constrains the default representation of what is possible. *Proceedings of the National Academy of Sciences*, 114(18), 4649-4654.
+
+Phillips, J., Luguri, J. B., & Knobe, J. (2015). Unifying morality’s influence on non-moral judgments: The relevance of alternative possibilities. *Cognition*, 145, 30-42.
+
+Shtulman, A., & Phillips, J. (2018). Differentiating “could” from “should”: Developmental changes in modal cognition. *Journal of experimental child psychology*, 165, 161-182.
+
+Portner, Paul. 2009. *Modality*. OUP Oxford.
+
+Shtulman, Andrew & Susan Carey. 2007. Improbable or impossible? how children reason about the possibility of extraordinary events. *Child Development* 78(3). 1015–1032.
+
+Young, Liane & Jonathan Phillips. 2011. The paradox of moral focus. *Cognition*
+119(2). 166–178.
